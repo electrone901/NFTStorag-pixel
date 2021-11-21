@@ -1,25 +1,23 @@
-# PetGram
+# NFT Pixels
 
 NFT Pixels is a social dApp built for creators, makers, artist and anyone who loves painting, design, or drawing.
 
-With our NFT Pixels platform anyone can create an NFT, cuztomized it  or design one within minutes. Our simple and practical online art editor allows anyone with or without experience to create NFTs and sell them in our market place.
-
+With our NFT Pixels platform anyone can create an NFT, cuztomized it or design one within minutes. Our simple and practical online art editor allows anyone with or without experience to create NFTs and sell them in our market place.
 
 Let's have a quick demo:
-Whenever a viewer goes to the app he or she will be able to browse NFTs  from different creators, see details from specific NFT and mint them.
+Whenever a viewer goes to the app he or she will be able to browse NFTs from different creators, see details from specific NFT and mint them.
 
-
-The data is stored on IPFS and the generated hash will be used to view the transactions  details.
+The data is stored on IPFS and the generated hash will be used to view the transactions details.
 
 # How it's made
 
 NFT Pixels application makes use of the following softwares:
 
-### `NFTStorage` for data storage on IPFS that generates a transation hash used to retrive the  NFT .
+### `NFTStorage` for data storage on IPFS that generates a transation hash used to retrive the NFT .
 
 ### `Solidity` for the smart contract
 
-### `OpenZeppelin ERC721` we use the ERC721 template for a faster development of the PetGram smart contract
+### `OpenZeppelin ERC721` we use the ERC721 template for a faster development of the smart contract
 
 ### `Ganache` for local blockchain development
 
@@ -29,13 +27,13 @@ NFT Pixels application makes use of the following softwares:
 
 ### `Unlock Protocol` to allow users to pay for exclusive content this protocol was a big part of our use case.
 
-
 ## Demo
 
 Website Demo:
+
 - [Demo](https://00012ucolb73g08pag0mikd4ffjusi5a5rlmiasrar4kut09jmtp8hg.siasky.net/pet-details/bafyreiccqxygmb4ozq3eycuwuf7czsodj527xtbg26cbt3xakv7ft3ar2m)
 
-  ![Main Page](https://raw.githubusercontent.com/electrone901/petgram/main/src/images/cover.png) <br> <br>
+  ![Main Page]() <br> <br>
 
 # Getting Started
 
